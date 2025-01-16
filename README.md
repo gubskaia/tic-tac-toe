@@ -19,4 +19,4 @@ This is a simple implementation of the classic **Tic-Tac-Toe** game using Java a
    javac TicTacToe.java
 
 ## Demo
-![Demo GIF](./tic-tac-toe.gif)
+<img src="./tic-tac-toe.gif" alt="Example GIF" width="400" />
